@@ -1,6 +1,6 @@
 // src/pages/Recommend.jsx
 import React, { useState, useRef } from "react";
-import api from "../api";
+import api from "src\api.js";
 import { FiSearch, FiClock, FiChevronRight } from "react-icons/fi";
 import { motion } from "framer-motion";
 
